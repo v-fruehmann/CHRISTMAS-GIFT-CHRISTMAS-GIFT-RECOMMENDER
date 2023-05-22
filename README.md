@@ -3,6 +3,7 @@ based on Amazon Bestsellers in Toys and Games
 - Data engineering (Data Scraping, Data Cleaning, Postgres DB
 - NLP project (Data Processing, Embedding,Sentiment Analysis, Modelling, Prediction,LDA)
 - Recommendation System (5 reviews per user, and 6000 data points, Collaborative filtering with Non-negative Matrix Factorization (NMF Model))
+- Streamlit App
 
 <img width="873" alt="Screen Shot 2023-05-22 at 1 23 41 PM" src="https://github.com/v-fruehmann/CHRISTMAS-GIFT-CHRISTMAS-GIFT-RECOMMENDER-RECOMMENDER/assets/69976662/8f53b35d-abed-492d-8f1f-6df00bd26e1c">
 <img width="992" alt="Screen Shot 2023-05-22 at 1 23 55 PM" src="https://github.com/v-fruehmann/CHRISTMAS-GIFT-CHRISTMAS-GIFT-RECOMMENDER-RECOMMENDER/assets/69976662/d02add87-0133-41df-b7fa-590ca5e1ba10">
